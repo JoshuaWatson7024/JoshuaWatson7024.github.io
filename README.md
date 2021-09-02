@@ -1,1 +1,2 @@
-# JoshuaWatson7024.github.io
+# Josh Watson
+# joshua@udel.edu
